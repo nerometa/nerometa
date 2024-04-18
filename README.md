@@ -86,6 +86,7 @@ Currently, I'm pursuing my Bachelor's Degree in Computer Engineering on the week
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-050315?logo=sourcetree&logoColor=0052CC)
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-7150BF?logo=stackoverflow)
 ![WezTerm](https://img.shields.io/badge/WezTerm-7150BF?logo=wezterm)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-7150BF?logo=visualstudiocode)
 ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-050315?logo=zorin)
 
 ## 📊 Stats

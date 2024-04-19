@@ -47,6 +47,7 @@ Currently, I'm pursuing my Bachelor's Degree in Computer Engineering on the week
 ![Docker](https://img.shields.io/badge/Docker-7150BF?logo=docker)
 ![Express.js](https://img.shields.io/badge/Express.js-050315?logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-050315?logo=fastapi)
+![Flutter](https://img.shields.io/badge/Flutter-050315?logo=flutter&logoColor=02569B)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-050315?logo=githubactions)
 ![GraphQL](https://img.shields.io/badge/GraphQL-050315?logo=graphql&logoColor=E10098)
 ![jQuery](https://img.shields.io/badge/jQuery-050315?logo=jquery&logoColor=0769AD)

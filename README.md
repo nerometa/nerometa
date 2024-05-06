@@ -9,7 +9,7 @@
 I go by the name of `nerometa` in the 'netland, formally `Worawut Werawan` in the mainland. I was a software developer trainee at [RV Connex](https://www.rvconnex.com/) for 2 years.
 'Why 2 years? Why train for so long?' you might asked. It's the [Dual Vocational Training](https://www.thai-german-cooperation.info/en_US/history_education_6/) program offered by my college where you earned trade/vocational certificate and received on-the-job training. How cool is that! I found my little passion in front-end development through this. I got my Diploma this year, and that means I need to prove myself more than others.
 
-Currently, I'm pursuing my Bachelor's Degree in Computer Engineering on the weekends and working on some web application projects (I didn't prove myself to be good enough after countless rejections, that's the motivation). Aaaaand also because the internship's ended, I'm seriously unemployed, actively looking for a job so I can afford the tuition fee and sustain student life. Let's connect! or explore my thoughts at [https://www.nerometa.dev/](https://www.nerometa.dev/)
+Currently, I'm pursuing my Bachelor's Degree in Computer Engineering on the weekends and working on some web application projects (I didn't prove myself to be good enough after countless rejections, that's the motivation). Aaaaand also I'm a Full Stack Developer at Lodash Thailand. Let's connect! or explore my thoughts at [https://www.nerometa.dev/](https://www.nerometa.dev/)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/worawut-werawan/">

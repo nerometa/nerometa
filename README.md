@@ -9,7 +9,7 @@
 I go by the name of `nerometa` in the 'netland, formally `Worawut Werawan` in the mainland. I was a software developer trainee at [RV Connex](https://www.rvconnex.com/) for 2 years.
 'Why 2 years? Why train for so long?' you might asked. It's the [Dual Vocational Training](https://www.thai-german-cooperation.info/en_US/history_education_6/) program offered by my college where you earned trade/vocational certificate and received on-the-job training. How cool is that! I found my little passion in front-end development through this.
 
-I got my Diploma this year and currently I'm pursuing my Bachelor's Degree in Computer Engineering on the weekends. Let's connect! or explore my thoughts at [https://www.nerometa.dev/](https://www.nerometa.dev/)
+I got my Diploma this year and currently I'm pursuing my Bachelor's Degree in Computer Engineering on the weekends. Let's connect! or explore my thoughts at [https://blog.nerometa.dev/](https://blog.nerometa.dev/)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/worawut-werawan/">
@@ -31,7 +31,7 @@ I got my Diploma this year and currently I'm pursuing my Bachelor's Degree in Co
 
 ### 👨‍💻 Programming and Markup Languages
 ![CSS](https://img.shields.io/badge/CSS-7150BF?logo=css3&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-F1B383?logo=go)
+![Go](https://img.shields.io/badge/Go-050315?logo=go)
 ![HTML](https://img.shields.io/badge/HTML-7150BF?logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-7150BF?logo=javascript)
 ![Lua](https://img.shields.io/badge/Lua-050315?logo=lua&logoColor=2C2D72)

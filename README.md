@@ -11,6 +11,8 @@ I go by the name of `nerometa` in the 'netland, formally `Worawut Werawan` in th
 
 I got my Diploma this year and currently I'm pursuing my Bachelor's Degree in Computer Engineering on the weekends. Let's connect! or explore my thoughts at [https://blog.nerometa.dev/](https://blog.nerometa.dev/)
 
+Also also, I'm currently **unemployed** since I'm free on the weekdays.  I'm very much open to any work opportunities or another internship. So, feel free to hit me up with my contacts below! I hope we can discuss in more details and, potentially, be working together in the mean time 	٩( ๑╹ ꇴ╹)۶
+
 <p align="center">
   <a href="https://www.linkedin.com/in/worawut-werawan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
@@ -19,7 +21,7 @@ I got my Diploma this year and currently I'm pursuing my Bachelor's Degree in Co
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail" />
   </a>
   <a href="mailto:nerometa@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="LinkedIn" title="LinkedIn" />
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="LinkedIn" title="Proton Mail" />
   </a>
 </p>
 

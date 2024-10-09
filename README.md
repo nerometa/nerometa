@@ -6,8 +6,8 @@
   <em>Hey, look! That's me!</em>
 </p>
 
-I go by the name of `nerometa` in the 'netland, formally `Worawut Werawan` in the mainland. I was a software developer trainee at [RV Connex](https://www.rvconnex.com/) for 2 years.
-'Why 2 years? Why train for so long?' you might asked. It's the [Dual Vocational Training](https://www.thai-german-cooperation.info/en_US/history_education_6/) program offered by my college where you earned trade/vocational certificate and received on-the-job training. How cool is that! I found my little passion in front-end development through this.
+I go by the name of `nerometa` in the 'netland, formally `Worawut Weerawan` in the mainland. I was a software developer trainee at [RV Connex](https://www.rvconnex.com/) for 2 years.
+'Why 2 years?' you might asked. It's the [Dual Vocational Training](https://www.thai-german-cooperation.info/en_US/history_education_6/) program offered by my college where you earned trade diploma/vocational certificate and received on-the-job training. How cool is that! I found my little passion in front-end development through this.
 
 I got my Diploma this year and currently I'm pursuing my Bachelor's Degree in Computer Engineering on the weekends. Let's connect! or explore my thoughts at [https://blog.nerometa.dev/](https://blog.nerometa.dev/)
 
@@ -27,70 +27,20 @@ Also also, I'm currently **unemployed** since I'm free on the weekdays.  I'm ver
 
 ## ⚙ Tools & Tech Stacks
 
-🟣 = I use this regularly || I build project with this
-
-🟠 = I'm learning this
-
 ### 👨‍💻 Programming and Markup Languages
-![CSS](https://img.shields.io/badge/CSS-7150BF?logo=css3&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-050315?logo=go)
-![HTML](https://img.shields.io/badge/HTML-7150BF?logo=html5)
-![JavaScript](https://img.shields.io/badge/JavaScript-7150BF?logo=javascript)
-![Lua](https://img.shields.io/badge/Lua-050315?logo=lua&logoColor=2C2D72)
-![Markdown](https://img.shields.io/badge/Markdown-050315?logo=markdown)
-![Python](https://img.shields.io/badge/Python-050315?logo=python)
-![SQL](https://custom-icon-badges.demolab.com/badge/SQL-050315.svg?logo=database&logoColor=4479A1)
-![TypeScript](https://img.shields.io/badge/TypeScript-7150BF?logo=typescript&logoColor=fff)
+[![Programming and Markup Languages](https://skillicons.dev/icons?i=css,html,js,lua,md,python,ts&theme=dark)](https://skillicons.dev)
 
 ### 🧰 Frameworks, Technologies and Libraries
-![Angular](https://img.shields.io/badge/Angular-7150BF?logo=angular)
-![Astro](https://img.shields.io/badge/Astro-7150BF?logo=astro&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-050315?logo=bootstrap)
-![Docker](https://img.shields.io/badge/Docker-7150BF?logo=docker)
-![Express.js](https://img.shields.io/badge/Express.js-050315?logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-050315?logo=fastapi)
-![Flutter](https://img.shields.io/badge/Flutter-050315?logo=flutter&logoColor=02569B)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-050315?logo=githubactions)
-![GraphQL](https://img.shields.io/badge/GraphQL-050315?logo=graphql&logoColor=E10098)
-![jQuery](https://img.shields.io/badge/jQuery-050315?logo=jquery&logoColor=0769AD)
-![Jasmine](https://img.shields.io/badge/Jasmine-050315?logo=jasmine&logoColor=8A4182)
-![PNPM](https://img.shields.io/badge/PNPM-7150BF?logo=pnpm)
-![React](https://img.shields.io/badge/React-F1B383?logo=react)
-![Redis](https://img.shields.io/badge/Redis-050315?logo=redis)
-![Sass/SCSS](https://img.shields.io/badge/Sass/SCSS-050315?logo=sass)
-![Swagger](https://img.shields.io/badge/Swagger-050315?logo=swagger)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-7150BF?logo=tailwindcss)
-![Three.js](https://img.shields.io/badge/Three.js-050315?logo=threedotjs)
-![NestJS](https://img.shields.io/badge/NestJS-050315?logo=nestjs&logoColor=E0234E)
-![Next.js](https://img.shields.io/badge/Next.js-F1B383?logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-050315?logo=nodedotjs)
-![Nuxt](https://img.shields.io/badge/Nuxt-F1B383?logo=nuxtdotjs)
-![Vue](https://img.shields.io/badge/Vue-F1B383?logo=vuedotjs)
+[![Programming and Markup Languages](https://skillicons.dev/icons?i=angular,astro,docker,expressjs,fastapi,githubactions,pnpm,redis,scss,tailwind,threejs,nestjs,nodejs,nuxt,vue&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Databases and Cloud Hosting
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-050315?logo=githubpages)
-![MariaDB](https://img.shields.io/badge/MariaDB-050315?logo=mariadb)
-![MongoDB](https://img.shields.io/badge/MongoDB-050315?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-050315?logo=mysql)
-![Netlify](https://img.shields.io/badge/Netlify-050315?logo=netlify)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050315?logo=postgresql)
-![Vercel](https://img.shields.io/badge/Vercel-050315?logo=vercel)
+[![Programming and Markup Languages](https://skillicons.dev/icons?i=mysql,netlify,postgresql,vercel&theme=dark)](https://skillicons.dev)
 
 ### 💻 Software and Tools
-![DBeaver](https://img.shields.io/badge/DBeaver-050315?logo=dbeaver&logoColor=382923)
-![Figma](https://img.shields.io/badge/Figma-050315?logo=figma)
-![Git](https://img.shields.io/badge/Git-7150BF?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-050315?logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-050315?logo=gitlab)
-![Jira Software](https://img.shields.io/badge/Jira%20Software-050315?logo=jirasoftware&logoColor=0052CC)
-![Neovim](https://img.shields.io/badge/Neovim-7150BF?logo=neovim)
-![Obsidian](https://img.shields.io/badge/Obsidian-7150BF?logo=obsidian)
-![Postman](https://img.shields.io/badge/Postman-050315?logo=postman)
-![Sourcetree](https://img.shields.io/badge/Sourcetree-050315?logo=sourcetree&logoColor=0052CC)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-7150BF?logo=stackoverflow)
-![WezTerm](https://img.shields.io/badge/WezTerm-7150BF?logo=wezterm)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-7150BF?logo=visualstudiocode)
-![Zorin OS](https://img.shields.io/badge/Zorin%20OS-050315?logo=zorin)
+[![Programming and Markup Languages](https://skillicons.dev/icons?i=figma,git,github,gitlab,linux,neovim,obsidian,postman,stackoverflow,ubuntu,vscode&theme=dark)](https://skillicons.dev)
+
+### 👨‍🎓 Currently Learning
+[![Currently Learning](https://skillicons.dev/icons?i=react,nextjs,java&theme=dark)](https://skillicons.dev)
 
 ## 📊 Stats
 <p align="center">

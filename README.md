@@ -28,16 +28,10 @@ Also also, I'm currently **unemployed** since I'm free on the weekdays.  I'm ver
 ## ⚙ Tools & Tech Stacks
 
 ### 👨‍💻 Programming and Markup Languages
-[![Programming and Markup Languages](https://skillicons.dev/icons?i=css,html,js,lua,md,python,ts&theme=dark)](https://skillicons.dev)
+[![Programming and Markup Languages](https://skillicons.dev/icons?i=ts,js,python&theme=dark)](https://skillicons.dev)
 
 ### 🧰 Frameworks, Technologies and Libraries
-[![Programming and Markup Languages](https://skillicons.dev/icons?i=angular,astro,docker,expressjs,fastapi,githubactions,pnpm,redis,scss,tailwind,threejs,nestjs,nodejs,nuxt,vue&theme=dark)](https://skillicons.dev)
-
-### 🗄️ Databases and Cloud Hosting
-[![Programming and Markup Languages](https://skillicons.dev/icons?i=mysql,netlify,postgresql,vercel&theme=dark)](https://skillicons.dev)
-
-### 💻 Software and Tools
-[![Programming and Markup Languages](https://skillicons.dev/icons?i=figma,git,github,gitlab,linux,neovim,obsidian,postman,stackoverflow,ubuntu,vscode&theme=dark)](https://skillicons.dev)
+[![Programming and Markup Languages](https://skillicons.dev/icons?i=angular,astro,docker,fastapi,tailwind,threejs,nodejs,nuxt,vue&theme=dark)](https://skillicons.dev)
 
 ### 👨‍🎓 Currently Learning
 [![Currently Learning](https://skillicons.dev/icons?i=react,nextjs,java&theme=dark)](https://skillicons.dev)

@@ -34,7 +34,7 @@ Also also, I'm currently **unemployed** since I'm free on the weekdays.  I'm ver
 [![Programming and Markup Languages](https://skillicons.dev/icons?i=angular,astro,docker,fastapi,tailwind,threejs,nodejs,nuxt,vue&theme=dark)](https://skillicons.dev)
 
 ### 👨‍🎓 Currently Learning
-[![Currently Learning](https://skillicons.dev/icons?i=react,nextjs,java&theme=dark)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=react,nextjs,java,php&theme=dark)](https://skillicons.dev)
 
 ## 📊 Stats
 <p align="center">

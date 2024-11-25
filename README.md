@@ -9,18 +9,18 @@
 I go by the name of `nerometa` in the 'netland, formally `Worawut Weerawan` in the mainland. I was a software developer trainee at [RV Connex](https://www.rvconnex.com/) for 2 years.
 'Why 2 years?' you might asked. It's the [Dual Vocational Training](https://www.thai-german-cooperation.info/en_US/history_education_6/) program offered by my college where you earned trade diploma/vocational certificate and received on-the-job training. How cool is that! I found my little passion in front-end development through this.
 
-I got my Diploma this year and currently I'm pursuing my Bachelor's Degree in Computer Engineering on the weekends. Let's connect! or explore my thoughts at [https://blog.nerometa.dev/](https://blog.nerometa.dev/)
+I got my Diploma this year and currently I'm pursuing my Bachelor's Degree in Computer Engineering on the weekends. Let's connect! or explore my thoughts at <a href="https://blog.nerometa.dev/" ref="me">https://blog.nerometa.dev/</a>
 
 Also also, I'm currently **unemployed** since I'm free on the weekdays.  I'm very much open to any work opportunities or another internship. So, feel free to hit me up with my contacts below! I hope we can discuss in more details and, potentially, be working together in the mean time 	٩( ๑╹ ꇴ╹)۶
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/worawut-werawan/">
+  <a href="https://www.linkedin.com/in/worawut-werawan/" rel="me">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
   </a>
-  <a href="mailto:werawan.workmail@gmail.com">
+  <a href="mailto:werawan.workmail@gmail.com" rel="me">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail" />
   </a>
-  <a href="mailto:nerometa@protonmail.com">
+  <a href="mailto:nerometa@protonmail.com" rel="me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="LinkedIn" title="Proton Mail" />
   </a>
 </p>

@@ -9,9 +9,7 @@
 I go by the name of `nerometa` in the 'netland, formally `Worawut Weerawan` in the mainland. I was a software developer trainee at [RV Connex](https://www.rvconnex.com/) for 2 years.
 'Why 2 years?' you might asked. It's the [Dual Vocational Training](https://www.thai-german-cooperation.info/en_US/history_education_6/) program offered by my college where you earned trade diploma/vocational certificate and received on-the-job training. How cool is that! I found my little passion in front-end development through this.
 
-I got my Diploma this year and currently I'm pursuing my Bachelor's Degree in Computer Engineering on the weekends. Let's connect! or explore my thoughts at <a href="https://blog.nerometa.dev/" ref="me">https://blog.nerometa.dev/</a>
-
-Also also, I'm currently **unemployed** since I'm free on the weekdays.  I'm very much open to any work opportunities or another internship. So, feel free to hit me up with my contacts below! I hope we can discuss in more details and, potentially, be working together in the mean time 	٩( ๑╹ ꇴ╹)۶
+Currently, I'm pursuing my Bachelor's Degree in Computer Engineering on the weekends. I'm working at [Tech Horizon](https://tech-horizon.co.th/) as a PHP Programmer on the weekdays. Let's connect! or explore my thoughts at <a href="https://blog.nerometa.dev/" ref="me">https://blog.nerometa.dev/</a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/worawut-werawan/" rel="me">
@@ -28,7 +26,7 @@ Also also, I'm currently **unemployed** since I'm free on the weekdays.  I'm ver
 ## ⚙ Tools & Tech Stacks
 
 ### 👨‍💻 Programming and Markup Languages
-[![Programming and Markup Languages](https://skillicons.dev/icons?i=ts,js,python&theme=dark)](https://skillicons.dev)
+[![Programming and Markup Languages](https://skillicons.dev/icons?i=ts,js,python,php&theme=dark)](https://skillicons.dev)
 
 ### 🧰 Frameworks, Technologies and Libraries
 [![Programming and Markup Languages](https://skillicons.dev/icons?i=angular,astro,docker,fastapi,tailwind,threejs,nodejs,nuxt,vue&theme=dark)](https://skillicons.dev)

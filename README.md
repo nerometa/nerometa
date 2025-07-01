@@ -29,10 +29,10 @@ Currently, I'm pursuing my Bachelor's Degree in Computer Engineering on the week
 [![Programming and Markup Languages](https://skillicons.dev/icons?i=ts,js,python,php&theme=dark)](https://skillicons.dev)
 
 ### 🧰 Frameworks, Technologies and Libraries
-[![Programming and Markup Languages](https://skillicons.dev/icons?i=angular,astro,docker,fastapi,tailwind,threejs,nodejs,nuxt,vue&theme=dark)](https://skillicons.dev)
+[![Programming and Markup Languages](https://skillicons.dev/icons?i=angular,astro,docker,fastapi,figma,tailwind,threejs,neovim,nodejs,nuxt,postman,vue&theme=dark)](https://skillicons.dev)
 
 ### 👨‍🎓 Currently Learning
-[![Currently Learning](https://skillicons.dev/icons?i=react,nextjs,java,php&theme=dark)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
 
 ## 📊 Stats
 <p align="center">

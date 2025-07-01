@@ -7,7 +7,7 @@
 </p>
 
 I go by the name of `nerometa` in the 'netland, formally `Worawut Weerawan` in the mainland. I was a software developer trainee at [RV Connex](https://www.rvconnex.com/) for 2 years.
-'Why 2 years?' you might asked. It's the [Dual Vocational Training](https://www.thai-german-cooperation.info/en_US/history_education_6/) program offered by my college where you earned trade diploma/vocational certificate and received on-the-job training. How cool is that! I found my little passion in front-end development through this.
+'Why 2 years?' you might asked. It's the [Dual Vocational Training](https://www.thai-german-cooperation.info/en_US/history_education_6/) program offered by my college where you earned trade diploma/vocational certificate and received on-the-job training. How cool is that! I found my little passion in software development through this.
 
 Currently, I'm pursuing my Bachelor's Degree in Computer Engineering on the weekends. I'm working at [Tech Horizon](https://tech-horizon.co.th/) as a PHP Programmer on the weekdays. Let's connect! or explore my thoughts at <a href="https://blog.nerometa.dev/" ref="me">https://blog.nerometa.dev/</a>
 

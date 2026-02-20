@@ -24,18 +24,19 @@ Currently, I'm pursuing my Bachelor's Degree in Computer Engineering on the week
 </p>
 
 ## ⚙ Tools & Tech Stacks
+Both professionally and for personal projects & tinkers.
 
 ### 👨‍💻 Programming and Markup Languages
-[![Programming and Markup Languages](https://skillicons.dev/icons?i=ts,js,python,php&theme=dark)](https://skillicons.dev)
+[![Programming and Markup Languages](https://skillicons.dev/icons?i=html,css,ts,js,php&theme=dark)](https://skillicons.dev)
 
 ### 🧰 Frameworks, Technologies and Libraries
-[![Programming and Markup Languages](https://skillicons.dev/icons?i=angular,astro,docker,fastapi,figma,tailwind,threejs,neovim,nodejs,nuxt,postman,vue&theme=dark)](https://skillicons.dev)
+[![Programming and Markup Languages](https://skillicons.dev/icons?i=angular,astro,bun,drizzle,elysia,svelte,tailwind,threejs,mysql,nodejs,next,nuxt,postgresql,prisma,sqlite,vite,vue&theme=dark)](https://skillicons.dev)
 
-### 👨‍🎓 Currently Learning
-[![Currently Learning](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
+### ⚙️ Tools
+[![Tools](https://skillicons.dev/icons?i=docker,figma,linux,netlify,neovim,obsidian,postman&theme=dark)](https://skillicons.dev)
 
 ## 📊 Stats
 <p align="center">
-  <img height="185" width="auto" src="https://github-readme-stats.vercel.app/api?username=nerometa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=191724&text_color=e0def4&title_color=f6c177&icon_color=c4a7e7"/>
-  <img height="185" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerometa&layout=compact&theme=react&hide_border=true&bg_color=191724&text_color=e0def4&title_color=f6c177&icon_color=c4a7e7"/>
+  <img height="185" width="auto" src="https://github-stats-extended.vercel.app/api?username=nerometa&show_icons=true&include_all_commits=true&theme=rose_pine"/>
+  <img height="185" width="auto" src="https://github-stats-extended.vercel.app/api/top-langs?username=nerometa&layout=compact&langs_count=5&theme=rose_pine"/>
 </p>

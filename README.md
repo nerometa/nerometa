@@ -30,7 +30,7 @@ Both professionally and for personal projects & tinkers.
 [![Programming and Markup Languages](https://skillicons.dev/icons?i=html,css,ts,js,php&theme=dark)](https://skillicons.dev)
 
 ### 🧰 Frameworks, Technologies and Libraries
-[![Programming and Markup Languages](https://skillicons.dev/icons?i=angular,astro,bun,drizzle,elysia,svelte,tailwind,threejs,mysql,nodejs,next,nuxt,postgresql,prisma,sqlite,vite,vue&theme=dark)](https://skillicons.dev)
+[![Programming and Markup Languages](https://skillicons.dev/icons?i=angular,astro,bun,elysia,svelte,tailwind,threejs,mysql,nodejs,next,nuxt,postgresql,prisma,sqlite,vite,vue&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Tools
 [![Tools](https://skillicons.dev/icons?i=docker,figma,linux,netlify,neovim,obsidian,postman&theme=dark)](https://skillicons.dev)
